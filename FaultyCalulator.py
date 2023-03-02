@@ -1,5 +1,5 @@
 # FALTY CALCULATOR
-#Qn: Design a calculator which will correctly solve all the problems expect the following ones:
+#Qn: Design a calculator which will correctly solve all the problems exceptt the following ones:
 # 40*7=124, 57+9=77 and 46/6=4
 # Your program should take operator and the two numbers as input from the user and resturn the result.
 
